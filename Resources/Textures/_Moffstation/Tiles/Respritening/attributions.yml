@@ -8,6 +8,8 @@
   copyright: "Made by Moomoobeef, based on the original tile which came from vgstation13 at roughly commit e4d3ea7f69d21c3667be12b114fa935c4640cb05"
   source: "https://github.com/moff-station/moff-station-14/pull/2008"
 
-
-
-
+- files:
+  - white-maint.png
+  license: "CC0-1.0"
+  copyright: "Based on sprites by AfterLite, made by Moomoobeef"
+  source: "https://github.com/moff-station/moff-station-14"
