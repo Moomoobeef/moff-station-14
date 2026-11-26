@@ -1,3 +1,5 @@
+## GREY STEEL TILE
+
 - type: entity
   parent: FloorTileItemSteel
   id: MoffFloorTileItemSteelDiagonal
@@ -40,49 +42,7 @@
   - type: Stack
     stackType: MoffFloorTileSteelOffset
 
-
-- type: entity
-  parent: FloorTileItemDark
-  id: MoffFloorTileItemDarkDiagonal
-  name: dark steel diagonal tile
-  components:
-  - type: Sprite
-    state: dark-diagonal
-  - type: FloorTile
-    outputs:
-    - Plating
-    - MoffFloorDarkDiagonal
-  - type: Stack
-    stackType: MoffFloorTileDarkDiagonal
-
-- type: entity
-  parent: FloorTileItemDark
-  id: MoffFloorTileItemDarkDiagonalMini
-  name: dark steel mini diagonal tile
-  components:
-  - type: Sprite
-    state: dark-diagonal-mini
-  - type: FloorTile
-    outputs:
-    - Plating
-    - MoffFloorDarkDiagonalMini
-  - type: Stack
-    stackType: MoffFloorTileDarkDiagonalMini
-
-- type: entity
-  parent: FloorTileItemDark
-  id: MoffFloorTileItemDarkOffset
-  name: dark steel offset tile
-  components:
-  - type: Sprite
-    state: dark-offset
-  - type: FloorTile
-    outputs:
-    - Plating
-    - MoffFloorDarkOffset
-  - type: Stack
-    stackType: MoffFloorTileDarkOffset
-
+## WHITE STEEL TILE
 
 - type: entity
   parent: FloorTileItemWhite
@@ -126,6 +86,51 @@
   - type: Stack
     stackType: MoffFloorTileWhiteOffset
 
+## DARK STEEL TILE
+
+- type: entity
+  parent: FloorTileItemDark
+  id: MoffFloorTileItemDarkDiagonal
+  name: dark steel diagonal tile
+  components:
+  - type: Sprite
+    state: dark-diagonal
+  - type: FloorTile
+    outputs:
+    - Plating
+    - MoffFloorDarkDiagonal
+  - type: Stack
+    stackType: MoffFloorTileDarkDiagonal
+
+- type: entity
+  parent: FloorTileItemDark
+  id: MoffFloorTileItemDarkDiagonalMini
+  name: dark steel mini diagonal tile
+  components:
+  - type: Sprite
+    state: dark-diagonal-mini
+  - type: FloorTile
+    outputs:
+    - Plating
+    - MoffFloorDarkDiagonalMini
+  - type: Stack
+    stackType: MoffFloorTileDarkDiagonalMini
+
+- type: entity
+  parent: FloorTileItemDark
+  id: MoffFloorTileItemDarkOffset
+  name: dark steel offset tile
+  components:
+  - type: Sprite
+    state: dark-offset
+  - type: FloorTile
+    outputs:
+    - Plating
+    - MoffFloorDarkOffset
+  - type: Stack
+    stackType: MoffFloorTileDarkOffset
+
+## OTHER
 
 - type: entity
   parent: FloorTileItemSteel
