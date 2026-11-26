@@ -57,6 +57,12 @@
   name: stack-offset-white-steel-tile
   spawn: MoffFloorTileItemWhiteOffset
 
+- type: stack
+  parent: BaseTileStack
+  id: MoffFloorWhiteMaint
+  name: moff-stack-white-maint-floor
+  spawn: MoffFloorTileItemWhiteMaint
+
 
 # other
 - type: stack

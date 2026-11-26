@@ -86,6 +86,21 @@
   - type: Stack
     stackType: MoffFloorTileWhiteOffset
 
+- type: entity
+  parent: FloorTileItemWhite
+  id: MoffFloorTileItemWhiteMaint
+  name: white maint floor
+  components:
+  - type: Sprite
+    sprite: _Moffstation/Objects/Tiles
+    state: white-maint
+  - type: FloorTile
+    outputs:
+    - Plating
+    - MoffFloorWhiteMaint
+  - type: Stack
+    stackType: MoffFloorWhiteMaint
+
 ## DARK STEEL TILE
 
 - type: entity

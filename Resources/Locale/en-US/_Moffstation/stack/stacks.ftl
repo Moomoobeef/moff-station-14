@@ -22,5 +22,6 @@ moff-stack-offset-steel-tile = offset steel tile
 moff-stack-white-steel-diagonal-tile = white steel diagonal tile
 moff-stack-white-steel-diagonal-mini-tile = white steel diagonal mini tile
 moff-stack-offset-white-steel-tile = offset white steel tile
+moff-stack-white-maint-floor = white maint floor
 
 moff-stack-showroom-tile = showroom tile

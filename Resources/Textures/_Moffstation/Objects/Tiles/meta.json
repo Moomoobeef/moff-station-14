@@ -184,6 +184,9 @@
             "name": "white-offset"
         },
         {
+            "name": "white-maint"
+        },
+        {
             "name": "showroom"
         }
     ]

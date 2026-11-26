@@ -21,5 +21,6 @@ moff-tiles-white-floor-offset = white steel offset tile
 moff-tiles-dark-floor-diagonal = dark steel diagonal tile
 moff-tiles-dark-floor-diagonal-mini = dark steel diagonal mini-tile
 moff-tiles-dark-floor-offset = dark steel offset tile
+moff-tiles-white-maint-floor = white maint floor
 
 moff-tiles-showroom-floor = showroom

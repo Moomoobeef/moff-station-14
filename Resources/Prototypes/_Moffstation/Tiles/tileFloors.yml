@@ -50,6 +50,15 @@
     collection: FootstepTile
   itemDrop: MoffFloorTileItemWhiteOffset
 
+- type: tile
+  id: MoffFloorWhiteMaint
+  parent: BaseStationTile
+  name: moff-tiles-white-maint-floor
+  sprite: /Textures/_Moffstation/Tiles/Respritening/white_maint.png
+  footstepSounds:
+    collection: FootstepTile
+  itemDrop: MoffFloorTileItemWhiteMaint
+
 ## Dark Tile
 
 - type: tile

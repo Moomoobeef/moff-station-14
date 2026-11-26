@@ -101,6 +101,11 @@
   id: MoffFloorTileItemWhiteOffset
   result: MoffFloorTileItemWhiteOffset
 
+- type: latheRecipe
+  parent: BaseWhiteTileRecipe
+  id: MoffFloorTileItemWhiteMaint
+  result: MoffFloorTileItemWhiteMaint
+
 # Showroom
 
 - type: latheRecipe
